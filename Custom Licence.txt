@@ -1,0 +1,67 @@
+# Podcast App Community License v1.0
+
+Copyright © 2026 R3B00P
+
+## 1. Permission
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated source code (the "Software"), to use, copy, modify, and redistribute the Software, subject to the conditions of this License.
+
+## 2. Attribution
+
+Redistributions of the Software, whether modified or unmodified, must retain:
+
+* The original copyright notice;
+* A reference to the original project; and
+* This License.
+
+Attribution must not imply that the original authors endorse a modified version of the Software.
+
+## 3. Modification
+
+You may modify the Software for personal, educational, research, or other lawful purposes.
+
+If you distribute a modified version of the Software, you must clearly indicate that changes were made and must provide access to the corresponding modified source code.
+
+## 4. Share-Alike
+
+Distributed modified versions of the Software must be licensed under this License or a later version of this License.
+
+You may not add additional restrictions that prevent recipients from exercising the rights granted by this License.
+
+## 5. Commercial Use
+
+Commercial use, distribution, and sale of the Software are permitted.
+
+However, you may not represent the original project, its name, trademarks, or contributors as the source or creator of a modified product unless you have received explicit permission to do so.
+
+## 6. No Warranty
+
+The Software is provided "as is", without warranty of any kind, express or implied.
+
+The authors and contributors shall not be held liable for claims, damages, or other liability arising from the use of the Software, to the maximum extent permitted by applicable law.
+
+## 7. Trademarks
+
+This License does not grant permission to use the project's names, logos, trademarks, or other branding except as reasonably necessary to identify the original Software or comply with the attribution requirements of this License.
+
+## 8. Contributions
+
+Unless otherwise agreed in writing, contributions submitted to the project are licensed under this License.
+
+By submitting a contribution, you represent that you have the legal right to submit it under these terms.
+
+## 9. License Changes
+
+The copyright holders may publish newer versions of this License.
+
+Existing releases remain governed by the version of the License under which they were released unless explicitly stated otherwise.
+
+## 10. Acceptance
+
+By using, modifying, or distributing the Software, you agree to the terms of this License.
+
+---
+
+**Podcast App Community License v1.0**
+
+This is a custom license and is not an OSI-approved open-source license.
